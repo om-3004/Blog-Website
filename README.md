@@ -1,6 +1,8 @@
 # Blog-Website
 Blog-Website is developed using Node.js and Express.js. For storing the data, MongoDB is used. Mongoose is used to map the application data to the database.
 
+I have not pushed the node modules folder which contains all the dependencies for the project including react itself (beacuse it is huge in size). So if you FORK or CLONE the project, then after cloning it, just type "npm install" in your terminal to install the node modules folder and install all the dependencies required for the project.
+
 # Screenshot
 
 https://github.com/om-3004/Blog-Website/assets/76418145/3227d2de-6f79-4f84-a307-4f646c8e5312
